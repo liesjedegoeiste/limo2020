@@ -38,7 +38,6 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
         </p>
       </p>
     </span>
-    
     <span class="col-sm-4">
       <p class="name text-center">
         <img class="img-responsive commissie-foto" src="img/cva/hendrik2.jpg" alt="Hendrik Lenstra" />
@@ -49,7 +48,6 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
         </p>
       </p>
     </span>
-    
     <span class="col-sm-4">
       <p class="name text-center">
         <img class="img-responsive commissie-foto" src="img/cva/schrijver2.jpg" alt="Alexander Schrijver" />
@@ -75,7 +73,6 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
         </p>
       </p>
     </span>
-        
     <span class="col-sm-4">
       <p class="name text-center">
         <img class="img-responsive commissie-foto" src="img/cva/lenny2.jpg" alt="Lenny Taelman" />

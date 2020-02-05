@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "description": "De LIMO is een wiskundewedstrijd tussen teams van verschillende universiteiten.",
   "dependencies": {
-    "docpad": "~6.82.5",
+    "docpad": "^6.82.5",
     "docpad-plugin-coffeescript": "~2.7.0",
     "docpad-plugin-eco": "~2.3.0",
     "docpad-plugin-livereload": "~2.10.0",
-    "docpad-plugin-marked": "~2.5.0"
+    "docpad-plugin-marked": "~2.5.0",
+    "npm": "^6.13.7"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
