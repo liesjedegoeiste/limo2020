@@ -6,4 +6,4 @@ order: 2
 ---
 
 ### Inschrijven
-De inschrijvingen zijn gesloten. Mocht je toch nog erg graag willen meedoen, stuur dan een mailtje naar limo2019@nsaweb.nl en dan kijken we wat er mogelijk is.
+De inschrijvingen zijn nog niet geopend, hou de website en onze facebook in de gaten voor meer informatie.

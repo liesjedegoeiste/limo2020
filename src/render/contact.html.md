@@ -9,12 +9,12 @@ order: 15
 
 Alle vragen en opmerkingen zijn welkom, wel het liefste via e-mail.
 
-_Natuurwetenschappelijke Studievereniging Amsterdam_  
-t.a.v. LIMO 2019<br />
-Science Park 904 &nbsp; A0.08<br />
-1098XH &nbsp; Amsterdam
+_Aeskwadraat Utrecht_  
+t.a.v. LIMO 2020<br />
+Princetonplein 5 &nbsp; 2.69<br />
+3584CC &nbsp; Utrecht
 
-E-mail: <limo2019@nsaweb.nl>  
+E-mail: <limo2020@a-eskwadraat.nl>  
 
 We hebben ook een <a href="https://www.facebook.com/LIMO-1535595320102193" target="_blank">Facebookpagina</a>.
 

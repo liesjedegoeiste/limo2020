@@ -50,7 +50,7 @@
           <a id="limo-navbar" class="pull-left" href="<%= @site.url %>">
             <img src="img/limo-logo-2019-navbar.svg" height="48px" alt="limo-logo-navbar" />
           </a>
-          <a class="navbar-brand" href="<%= @site.url %>">LIMO 2019</a >
+          <a class="navbar-brand" href="<%= @site.url %>">LIMO 2020</a >
         </div>
 
         <% # The navbar. Grey when on the page, white when not on the page. %>
@@ -66,8 +66,8 @@
           </ul>
 
           <ul class="nav navbar-nav navbar-right">
-            <a id="nsa-navbar" href="http://nsaweb.nl/" target="_blank">
-              <img src="img/NSA_navbar.png" alt="nsa-logo-navbar"/>
+            <a id="aes2-navbar" href="http://www.a-eskwadraat.nl/" target="_blank">
+              <img src="img/aes2logo_navbar.png" alt="aes2-logo-navbar"/>
             </a>
           </ul>
         </div>
