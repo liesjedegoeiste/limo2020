@@ -51,10 +51,10 @@ docpadConfig = {
         # Specify some site properties
         site:
             # The production URL of our website
-            url: "/static/limo2019"
+            url: "/static/limo2020"
 
             # The default title of our website
-            title: "LIMO 2019"
+            title: "LIMO 2020"
 
             # The website description (for SEO)
             description: """
@@ -107,7 +107,7 @@ docpadConfig = {
         development:
             templateData:
                 site:
-                    url: 'https://limo2019.nsaweb.nl'
+                    url: 'https://limo.a-eskwadraat.nl'
                     #url: 'http://localhost:9778'
 
     # =================================

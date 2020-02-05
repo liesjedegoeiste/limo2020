@@ -16,7 +16,7 @@ beslaan. Wiskundig inzicht en abstractievermogen zijn dus vereisten. Het is de
 bedoeling dat wiskundestudenten uit alle jaren aan de slag kunnen met de
 opgaven.
 
-De vijftiende editie van de LIMO heeft op 10 mei 2019 plaatsgevonden in Amsterdam.
+De zestiende editie van de LIMO zal op 8 mei 2020 plaatsvinden in Utrecht.
 
 ### Comit&eacute; van aanbeveling
 
@@ -31,59 +31,59 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
     <span class="col-sm-4"> 
       <p class="name text-center">
         <img class="img-responsive commissie-foto" src="img/cva/alexander2.jpg" alt="Alexander Rinnooy Kan" />
-   		<p align = "left">
-			prof. dr. Alexander Rinnooy Kan <br><em>
-			Wiskundige en topfunctionaris, oud-voorzitter van de Sociaal-Economische Raad.
-			</em>
-		</p>
+        <p align = "left">
+            prof. dr. Alexander Rinnooy Kan <br><em>
+            Wiskundige en topfunctionaris, oud-voorzitter van de Sociaal-Economische Raad.
+            </em>
+        </p>
       </p>
     </span>
-	
-	<span class="col-sm-4">
+    
+    <span class="col-sm-4">
       <p class="name text-center">
-		<img class="img-responsive commissie-foto" src="img/cva/hendrik2.jpg" alt="Hendrik Lenstra" />
+        <img class="img-responsive commissie-foto" src="img/cva/hendrik2.jpg" alt="Hendrik Lenstra" />
         <p align = "left">
-			prof. dr. Hendrik Lenstra <br><em>
-			Winnaar van de Spinozapremie.
-			</em>
-		</p>
+            prof. dr. Hendrik Lenstra <br><em>
+            Winnaar van de Spinozapremie.
+            </em>
+        </p>
       </p>
     </span>
-	
-	<span class="col-sm-4">
+    
+    <span class="col-sm-4">
       <p class="name text-center">
-		<img class="img-responsive commissie-foto" src="img/cva/schrijver2.jpg" alt="Alexander Schrijver" />
+        <img class="img-responsive commissie-foto" src="img/cva/schrijver2.jpg" alt="Alexander Schrijver" />
         <p align = "left">
-			prof. dr. Alexander Schrijver <br><em>
-			Winnaar van de Spinozapremie.
-			</em>
-		</p>
+            prof. dr. Alexander Schrijver <br><em>
+            Winnaar van de Spinozapremie.
+            </em>
+        </p>
       </p>
-    </span>	
+    </span> 
 </div>
  
 <div class="row">
-	<span class="col-sm-2">
-	</span>
-	<span class="col-sm-4"> 
+    <span class="col-sm-2">
+    </span>
+    <span class="col-sm-4"> 
       <p align ="left" class="name text-center">
-		<img class="img-responsive commissie-foto" src="img/cva/eric2.jpg" alt="Eric Opdam" />
+        <img class="img-responsive commissie-foto" src="img/cva/eric2.jpg" alt="Eric Opdam" />
         <p align = "left">
-			Prof. dr. Eric Opdam <br><em> 
-			Directeur van het Korteweg de Vries Instituut aan de Universiteit van Amsterdam.
-			</em>
-		</p>
+            Prof. dr. Eric Opdam <br><em> 
+            Directeur van het Korteweg de Vries Instituut aan de Universiteit van Amsterdam.
+            </em>
+        </p>
       </p>
     </span>
-    	
-	<span class="col-sm-4">
+        
+    <span class="col-sm-4">
       <p class="name text-center">
-		<img class="img-responsive commissie-foto" src="img/cva/lenny2.jpg" alt="Lenny Taelman" />
+        <img class="img-responsive commissie-foto" src="img/cva/lenny2.jpg" alt="Lenny Taelman" />
         <p align = "left">
-			prof. dr. Lenny Taelman <br><em>
-			Leerstoel Algebra en Meetkunde aan de Universiteit van Amsterdam.
-			</em>
-		</p>
+            prof. dr. Lenny Taelman <br><em>
+            Leerstoel Algebra en Meetkunde aan de Universiteit van Amsterdam.
+            </em>
+        </p>
       </p>
     </span>
 </div>    
