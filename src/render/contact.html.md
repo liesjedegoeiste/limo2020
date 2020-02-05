@@ -11,7 +11,7 @@ Alle vragen en opmerkingen zijn welkom, wel het liefste via e-mail.
 
 _Aeskwadraat Utrecht_  
 t.a.v. LIMO 2020<br />
-Princetonplein 5 &nbsp; 2.69<br />
+Princetonplein 5 &nbsp; Kamer 2.69<br />
 3584CC &nbsp; Utrecht
 
 E-mail: <limo2020@a-eskwadraat.nl>  
