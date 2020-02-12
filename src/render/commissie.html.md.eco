@@ -7,9 +7,9 @@ order: 8
 
 ### Commissie
 
-De LIMO-commissie is dit jaar als volgt samengesteld:
+De LIMO-commissie was vorig jaar als volgt samengesteld:
 
-<div class="row">
+<!---<div class="row">
   <% # Loop across committee members defined in docpad.coffee %>
   <% for item in @committee_list: %>
     <span class="col-sm-4"> <% #really weird how it acts with div instead of span %>
@@ -24,7 +24,7 @@ De LIMO-commissie is dit jaar als volgt samengesteld:
       </p>
     </span>
   <% end %>
-</div>
+</div>--->
 
 ### Groepsfoto
 <center><img style="max-width: 100%" src="img/commissie/Commissie.jpg" /></center>

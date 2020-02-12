@@ -6,4 +6,4 @@ order: 2
 ---
 
 ### Inschrijven
-De inschrijvingen zijn nog niet geopend, hou de website en onze facebook in de gaten voor meer informatie.
+De inschrijvingen zijn geopend! U kunt zich inschrijven via het <a href="https://forms.gle/sdm8pdwu91DhhocB8" target="_blank">inschrijfformulier</a>.

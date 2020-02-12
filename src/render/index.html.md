@@ -50,10 +50,10 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
     </span>
     <span class="col-sm-4">
       <p class="name text-center">
-        <img class="img-responsive commissie-foto" src="img/cva/schrijver2.jpg" alt="Alexander Schrijver" />
+        <img class="img-responsive commissie-foto" src="img/LIMO-2020-logo.png" alt="LIMO 2020" />
         <p align = "left">
-            prof. dr. Alexander Schrijver <br><em>
-            Winnaar van de Spinozapremie.
+            prof. dr. L.I.M.O 2020 <br><em>
+            Winnaar van de LIMO 2019.
             </em>
         </p>
       </p>
@@ -65,20 +65,10 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
     </span>
     <span class="col-sm-4"> 
       <p align ="left" class="name text-center">
-        <img class="img-responsive commissie-foto" src="img/cva/eric2.jpg" alt="Eric Opdam" />
+        <img class="img-responsive commissie-foto" src="img/LIMO-2020-logo.png" alt="Frits Beukers" />
         <p align = "left">
-            Prof. dr. Eric Opdam <br><em> 
-            Directeur van het Korteweg de Vries Instituut aan de Universiteit van Amsterdam.
-            </em>
-        </p>
-      </p>
-    </span>
-    <span class="col-sm-4">
-      <p class="name text-center">
-        <img class="img-responsive commissie-foto" src="img/cva/lenny2.jpg" alt="Lenny Taelman" />
-        <p align = "left">
-            prof. dr. Lenny Taelman <br><em>
-            Leerstoel Algebra en Meetkunde aan de Universiteit van Amsterdam.
+            prof. dr. Frits Beukers <br><em> 
+            Vooraanstaand Utrechts wiskundige.
             </em>
         </p>
       </p>

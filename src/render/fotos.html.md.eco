@@ -8,7 +8,7 @@ order: 7
 ### Foto's
 
 <div class="row">
-  <% folder = 'img/fotos/'; %>
+  <% folder = '/img/fotos/'; %>
   <% thumbs_folder = '/img/fotos_thumb/'; %>
 
   <% # Loop over photos %>
