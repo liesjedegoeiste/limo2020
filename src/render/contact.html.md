@@ -21,27 +21,16 @@ We hebben ook een <a href="https://www.facebook.com/LIMO-1535595320102193" targe
 
 ### Routebeschrijving
 
-##### Vervoer per trein
-NS-station Amsterdam Science Park is op loopafstand van het FNWI-gebouw. Kijk op de <a href="https://www.ns.nl/reisplanner#/" target = "_blank">reisplanner</a> van de NS voor de dienstregeling.
-
-##### Vervoer per bus
-<ul>
-<li>Bus 40 rijdt tussen Station Amstel en Station Muiderpoort via het Science Park. Met vijf bushaltes zijn alle gebouwen van het Science Park goed bereikbaar.</li>
-<li>Bus 240 rijdt tijdens spitsuren heen en weer tussen NS Station Amsterdam Amstel en het Science Park.</li>
-</ul>
-Kijk op de <a href="https://www.gvb.nl/" target="_blank">website</a> van het Gemeente Vervoer Bedrijf Amsterdam (GVB) voor de dienstregeling.
+##### Vervoer per OV
+Het Utrecht Science Park is bereikbaar vanaf Utrecht Centraal met tram 22 (de Uithoflijn). Alle wedstrijdlocaties zijn op loopafstand van de halte Heidelberglaan. Kijk op de <a href="https://www.ns.nl/reisplanner#/" target = "_blank">reisplanner</a> van de NS voor de dienstregeling. Als je vanuit de richting Arnhem komt is het ook mogelijk om bus 71, 271 of 371 te nemen vanaf station Driebergen-Zeist. Kijk op <a href="https://www.9292.nl">9292</a> voor de dienstregeling.
 
 ##### Vervoer per auto
-Alle autowegen naar Amsterdam komen uit op de rondweg rond Amsterdam: de ring (A10). Houd op de ring Amsterdam (A10) oost aan en neem afslag Watergraafsmeer/S113 (Ring Oost). 
-Rijd de Middenweg op richting centrum. Na ongeveer 500 meter bij de stoplichten rechtsaf de Kruislaan op. 
-Na 400 meter rijdt u onder NS-station Amsterdam Science Park door en kruist u de MacGillavrylaan. U bevindt zich nu op Science Park Amsterdam met het faculteitsgebouw aan de rechterzijde.
+Het Utrecht Science Park ligt aan afslag 2 van de A28 en is makkelijk te bereiken vanuit alle richtingen. Kijk op bijvoorbeeld <a href="https://www.google.nl/maps/dir//Marinus+Ruppertgebouw,+Leuvenlaan+21,+3584+CE+Utrecht">Google Maps</a> voor een routebeschrijving.
 
-##### Parkeren
-Op Amsterdam Science Park kunt u de bewegwijzering volgen naar de juiste parkeerterreinen. U kunt parkeren op de openbare parkeerterreinen P3 of P7 en op de parkeerterreinen rondom de onderzoeksinstituten. 
-Volg hiervoor de borden met een ''P". Let wel, vol = vol 
+Parkeren kan op veel plaatsen op de uithof. Volg de wegbewijzering naar de parkeerterreinen of kijk op <a href="uu.nl/parkeren">deze link</a> voor een overzicht van de parkeermogelijkheden.
 
 ### Declareren reiskosten
-Het is mogelijk om reiskosten te declareren, zoals in het <a href="reglement.html">reglement</a> vermeld staat, tenzij anders overeengekomen met de commissie.
+Het is mogelijk om reiskosten te declareren zoals in het <a href="reglement.html">reglement</a> vermeld staat, tenzij anders overeengekomen met de commissie.
 
 ### Kaart
 <center><img style="max-width: 100%" src="img/kaart.png" /></center>
