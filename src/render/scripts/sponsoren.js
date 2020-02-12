@@ -1,14 +1,14 @@
 var sponsoren = [
 	["ASML", "https://www.asml.com/careers/"],
-	["FlowTraders", "https://www.flowtraders.com/"],
-	["Digital Capability Company", "http://www.thedigitalcapabilitycompany.com/"],
     ["Transtrend", "http://www.transtrend.com/nl/"],
-    ["Universiteit Utrecht", "https://www.uu.nl/bachelors/wiskunde"],
+    ["UUtrecht", "https://www.uu.nl/bachelors/wiskunde"],
+    ["KWG", "https://www.wiskgenoot.nl"],
     ["Optiver", "http://www.optiver.com/"],
-	["KdVI", "http://kdvi.uva.nl/"],
-	["FNWI", "http://www.uva.nl/faculteit/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/faculteit-der-natuurwetenschappen-wiskunde-en-informatica.html"],
-	["EWI Twente", "https://www.utwente.nl/nl/ewi/"],
-	["MI Leiden", "https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/wiskunde"]
+	["ASML", "https://www.asml.com/careers/"],
+    ["Transtrend", "http://www.transtrend.com/nl/"],
+    ["UUtrecht", "https://www.uu.nl/bachelors/wiskunde"],
+    ["KWG", "https://www.wiskgenoot.nl"],
+    ["Optiver", "http://www.optiver.com/"]
 ];
 var n = sponsoren.length;
 var imgstart = Math.floor(Math.random() * n);

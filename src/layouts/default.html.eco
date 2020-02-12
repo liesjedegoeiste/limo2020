@@ -48,7 +48,7 @@
             <span class="icon-bar"></span>
           </button>
           <a id="limo-navbar" class="pull-left" href="<%= @site.url %>">
-            <img src="img/limo-logo-2019-navbar.svg" height="48px" alt="limo-logo-navbar" />
+            <img src="img/LIMO-2020-logo.png" height="48px" alt="limo-logo-navbar" />
           </a>
           <a class="navbar-brand" href="<%= @site.url %>">LIMO 2020</a >
         </div>
@@ -67,7 +67,7 @@
 
           <ul class="nav navbar-nav navbar-right">
             <a id="aes2-navbar" href="http://www.a-eskwadraat.nl/" target="_blank">
-              <img src="img/aes2logo_navbar.png" alt="aes2-logo-navbar"/>
+              <img src="img/aes2logo_navbar.png" height="54px" alt="aes2-logo-navbar"/>
             </a>
           </ul>
         </div>
@@ -101,7 +101,7 @@
           
           <% # Only show our logo if not on for instance the committee page %>
           <% if @document.showLogo : %>
-            <img id="limo-logo" class="img-responsive pull-right" src="img/limo-logo-2019-kleur.svg" width="350" alt="limo-logo" />
+            <img id="limo-logo" class="img-responsive pull-right" src="img/LIMO-2020-logo-tekst.png" width="350" alt="limo-logo" />
           <% end %>
           <%- @content %>
 

@@ -32,5 +32,5 @@ Parkeren kan op veel plaatsen op de uithof. Volg de wegbewijzering naar de parke
 ### Declareren reiskosten
 Het is mogelijk om reiskosten te declareren zoals in het <a href="reglement.html">reglement</a> vermeld staat, tenzij anders overeengekomen met de commissie.
 
-### Kaart
-<center><img style="max-width: 100%" src="img/kaart.png" /></center>
+<!---### Kaart--->
+<!---<center><img style="max-width: 100%" src="img/kaart.png" /></center>--->
