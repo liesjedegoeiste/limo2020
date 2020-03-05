@@ -28,16 +28,6 @@ aanbeveling hebben verder geen zeggenschap over de olympiade.
 Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
 
 <div class="row" align="center">
-    <span class="col-sm-4"> 
-      <p class="name text-center">
-        <img class="img-responsive commissie-foto" src="img/cva/alexander2.jpg" alt="Alexander Rinnooy Kan" />
-        <p align = "left">
-            prof. dr. Alexander Rinnooy Kan <br><em>
-            Wiskundige en topfunctionaris, oud-voorzitter van de Sociaal-Economische Raad.
-            </em>
-        </p>
-      </p>
-    </span>
     <span class="col-sm-4">
       <p class="name text-center">
         <img class="img-responsive commissie-foto" src="img/cva/hendrik2.jpg" alt="Hendrik Lenstra" />
@@ -52,8 +42,8 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
       <p class="name text-center">
         <img class="img-responsive commissie-foto" src="img/LIMO-2020-logo.png" alt="LIMO 2020" />
         <p align = "left">
-            prof. dr. L.I.M.O 2020 <br><em>
-            Winnaar van de LIMO 2019.
+            prof. dr. Hinke Osinga <br><em>
+            Vooraanstaand Nederlands wiskundige. 
             </em>
         </p>
       </p>
