@@ -30,7 +30,7 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
 <div class="row" align="center">
     <span class="col-sm-4">
       <p class="name text-center">
-        <img class="img-responsive commissie-foto" src="img/cva/hendrik2.jpg" alt="Hendrik Lenstra" />
+        <img class="img-responsive commissie-foto" src="img/cva/lenstra.jpg" alt="Hendrik Lenstra" />
         <p align = "left">
             prof. dr. Hendrik Lenstra <br><em>
             Winnaar van de Spinozapremie.
@@ -40,10 +40,20 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
     </span>
     <span class="col-sm-4">
       <p class="name text-center">
-        <img class="img-responsive commissie-foto" src="img/LIMO-2020-logo.png" alt="LIMO 2020" />
+        <img class="img-responsive commissie-foto" src="img/cva/osinga.jpg" alt="Hinke Osinga" />
         <p align = "left">
             prof. dr. Hinke Osinga <br><em>
             Vooraanstaand Nederlands wiskundige. 
+            </em>
+        </p>
+      </p>
+    </span> 
+    <span class="col-sm-4">
+      <p class="name text-center">
+        <img class="img-responsive commissie-foto" src="img/cva/kummeling.jpg" alt="Henk Kummeling" />
+        <p align = "left">
+            prof. dr. Henk Kummeling <br><em>
+            Rector magnificus van de Universiteit Utrecht. 
             </em>
         </p>
       </p>
@@ -52,6 +62,16 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
  
 <div class="row">
     <span class="col-sm-2">
+    </span>
+    <span class="col-sm-4"> 
+      <p align ="left" class="name text-center">
+        <img class="img-responsive commissie-foto" src="img/cva/arends.jpg" alt="Isabel Arends" />
+        <p align = "left">
+            prof. dr. Isabel Arends <br><em> 
+            Decaan betawetenschappen Utrecht.
+            </em>
+        </p>
+      </p>
     </span>
     <span class="col-sm-4"> 
       <p align ="left" class="name text-center">
