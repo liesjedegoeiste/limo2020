@@ -4,11 +4,13 @@ var sponsoren = [
     ["UUtrecht", "https://www.uu.nl/bachelors/wiskunde"],
     ["KWG", "https://www.wiskgenoot.nl"],
     ["Optiver", "http://www.optiver.com/"],
+    ["RUG", "https://www.rug.nl"],
 	["ASML", "https://www.asml.com/careers/"],
     ["Transtrend", "http://www.transtrend.com/nl/"],
     ["UUtrecht", "https://www.uu.nl/bachelors/wiskunde"],
     ["KWG", "https://www.wiskgenoot.nl"],
-    ["Optiver", "http://www.optiver.com/"]
+    ["Optiver", "http://www.optiver.com/"],
+    ["RUG", "https://www.rug.nl"]
 ];
 var n = sponsoren.length;
 var imgstart = Math.floor(Math.random() * n);

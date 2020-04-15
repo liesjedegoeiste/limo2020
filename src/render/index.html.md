@@ -5,6 +5,10 @@ showLogo: true
 order: 1
 ---
 
+### De LIMO gaat online door!
+
+Vanwege de huidige maatregelen kan de fysieke LIMO dit jaar helaas niet doorgaan. Om ook in deze tijden leuke activiteiten te blijven houden, organiseren we dit jaar een online editie. Deze editie zal nog steeds op vrijdag 8 mei plaatsvinden. Je zult die dag van 13:00 tot 16:00 de tijd krijgen om met je team aan een aantal leuke en uitdagende opgaven te werken. Wissel dus je wekelijkse uitje naar de supermarkt af met een leuke wiskundewedstrijd, verzamel een team en schrijf je in! De opgaven zullen zowel in het Nederlands als in het Engels beschikbaar zijn.
+
 ### Over de LIMO
 
 De Landelijke Interuniversitaire Mathematische Olympiade is een jaarlijks

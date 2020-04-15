@@ -26,7 +26,7 @@ Alle teams dienen zich vooraf in te schrijven voor de wedstrijd via de site van 
 
 ### Kosten
 
-Deelname aan de LIMO kost €5,- per team voor studententeams. Deelname voor bedrijventeams kost €50,-, tenzij anders is overeengekomen met de LIMO-commissie.
+~~Deelname aan de LIMO kost €5,- per team voor studententeams. Deelname voor bedrijventeams kost €50,-, tenzij anders is overeengekomen met de LIMO-commissie.~~ Aangezien de LIMO in 2020 online wordt gehouden zijn er geen inschrijfkosten.
 
 De kosten voor deelname moeten op de dag zelf contant worden betaald.
 
