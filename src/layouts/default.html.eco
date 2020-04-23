@@ -65,10 +65,20 @@
             <% end %>
           </ul>
 
+          <a class="nav navbar-nav navbar-right" id="aes2-navbar" href="http://www.a-eskwadraat.nl/" target="_blank">
+            <img src="img/aes2logo_navbar.png" height="54px" alt="aes2-logo-navbar"/>
+          </a>
           <ul class="nav navbar-nav navbar-right">
-            <a id="aes2-navbar" href="http://www.a-eskwadraat.nl/" target="_blank">
-              <img src="img/aes2logo_navbar.png" height="54px" alt="aes2-logo-navbar"/>
-            </a>
+            <li class="lang-change lang lang-nl">
+              <a href="?lang=en">
+                <img src="img/vlag_en.png" height="18px" width="24px" alt="lang-change"/>
+              </a>
+            </li>
+            <li class="lang-change lang lang-en">
+              <a href="?lang=nl">
+                <img src="img/vlag_nl.png" height="18px" width="24px" alt="lang-change"/>
+              </a>
+            </li>
           </ul>
         </div>
       </div>
@@ -128,6 +138,7 @@
 
     <script src="scripts/endless_scroll_min.js"></script>
     <script src="scripts/init_scroll.js"></script>
+    <script src="scripts/language.js"></script>
 
     <noscript>
       <link rel="stylesheet" property="stylesheet" type="text/css" href="styles/style_noscript.css">

@@ -5,6 +5,8 @@ showLogo: true
 order: 1
 ---
 
+<div class="lang lang-nl">
+
 ### De LIMO gaat online door!
 
 Vanwege de huidige maatregelen kan de fysieke LIMO dit jaar helaas niet doorgaan. Om ook in deze tijden leuke activiteiten te blijven houden, organiseren we dit jaar een online editie. Deze editie zal nog steeds op vrijdag 8 mei plaatsvinden. Je zult die dag van 13:00 tot 16:00 de tijd krijgen om met je team aan een aantal leuke en uitdagende opgaven te werken. Wissel dus je wekelijkse uitje naar de supermarkt af met een leuke wiskundewedstrijd, verzamel een team en schrijf je in! De opgaven zullen zowel in het Nederlands als in het Engels beschikbaar zijn.
@@ -20,7 +22,22 @@ beslaan. Wiskundig inzicht en abstractievermogen zijn dus vereisten. Het is de
 bedoeling dat wiskundestudenten uit alle jaren aan de slag kunnen met de
 opgaven.
 
-De zestiende editie van de LIMO zal op 8 mei 2020 plaatsvinden in Utrecht.
+De zestiende editie van de LIMO zal op 8 mei 2020 online plaatsvinden.
+
+</div>
+<div class="lang lang-en">
+
+### The LIMO will be held online
+
+Unfortunately, due to the current measures, the physical edition of the LIMO will not be held. However, for us all to still be able to participate in some fun activities, we will be organising an online edition. This edition will still take place on May 8th. Together with your team you can work from 13:00 until 16:00 on a couple of fun and challenging problems. So do not let your weekly grocery shopping trip be your only escape, gather a team around you and sign up now! All exercises will be made available in both Dutch and English.
+
+### About the LIMO
+
+The LIMO (National Interuniversity Mathematical Olympiad) is an annually recurring competition in which teams of students from Dutch and Flemish universities get three hours to solve a number of mathematical problems. These problems have varying difficulties, and concern topics like analysis, algebra, geometry, probability, and logic. Students from all levels should be able to work on these exercises.
+
+The sixteenth edition of the LIMO will be held on may 8th 2020.
+
+</div>
 
 ### Comit&eacute; van aanbeveling
 

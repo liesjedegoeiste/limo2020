@@ -48,15 +48,23 @@ body {
   vertical-align: middle;
 }
 
-#nsa-navbar {
+#aes2-navbar {
   line-height: 60px;
 }
 
-#nsa-navbar img {
+#aes2-navbar img {
   max-width: 15em;
   padding: 0em 0.5em 0em 0.5em;
 
   vertical-align: middle;
+}
+
+.lang {
+  display: none;
+}
+
+.lang-current {
+  display: block;
 }
 
 #limo-logo {

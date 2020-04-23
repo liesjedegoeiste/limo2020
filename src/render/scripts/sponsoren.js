@@ -37,9 +37,9 @@ function veranderimgs()
 {
     for (i = 0; i < 7; i++)
     {
-		console.log(imgstart % n)
-		console.log(sponsoren)
-		console.log(sponsoren[imgstart % n])
+		//console.log(imgstart % n)
+		//console.log(sponsoren)
+		//console.log(sponsoren[imgstart % n])
 		document.getElementById("sponsurl"+i).href = sponsoren[imgstart%n][1];
         document.getElementById("sponsimg"+i).src = "img/logos/"+sponsoren[imgstart%n][0]+".png";
         document.getElementById("sponsimg"+i).title = sponsoren[imgstart%n][0];
