@@ -1,9 +1,13 @@
 ﻿---
 title: "Reglement"
+title_english: "Regulations"
 isPage: true
 showLogo: true
 order: 7
 ---
+
+<div class="lang lang-nl">
+
 ### Algemeen
 
 Dit reglement is opgemaakt door de commissie van de LIMO 2020 op 5 februari 2020. De LIMO-commissie kan te allen tijde afwijken van het reglement. Opmerkingen, vragen en klachten omtrent het reglement kunnen aan de LIMO-commissie worden gericht.
@@ -36,4 +40,19 @@ Deelnemende studenten kunnen aanspraak maken op reiskostenvergoeding voor zover 
 
 ### Wedstrijd
 
-Alle opgaven zijn in het Nederlands. Tijdens de wedstrijd mag er overleg plaatsvinden tussen leden van hetzelfde team, maar niet met mensen daarbuiten. Gebruik van boeken, aantekeningen, telefoons, grafische rekenmachines en computers is niet toegestaan. In geval van (verdenking van) fraude of ander ongeoorloofd gedrag kan een team worden gediskwalificeerd. Antwoorden dienen op aparte blaadjes, per opgave, te worden ingeleverd. Voor elke opgave kan maximaal 10 punten worden gehaald, maar er kunnen ook deelscores behaald worden. Het team met de meeste punten wint.
+Alle opgaven zijn in het Nederlands en in het Engels. Tijdens de wedstrijd mag er overleg plaatsvinden tussen leden van hetzelfde team, maar niet met mensen daarbuiten. Gebruik van boeken, aantekeningen, telefoons, grafische rekenmachines en computers is niet toegestaan. In geval van (verdenking van) fraude of ander ongeoorloofd gedrag kan een team worden gediskwalificeerd. Antwoorden dienen op aparte blaadjes, per opgave, te worden ingeleverd. Voor elke opgave kan maximaal 10 punten worden gehaald, maar er kunnen ook deelscores behaald worden. Het team met de meeste punten wint.
+
+</div>
+<div class="lang lang-en">
+
+This page contains an excerpt of the regulations. For the full regulations, view this page in Dutch.
+
+### Composition of student teams
+
+A student team must consist of a maximum of four people, all of whom study at a university or applied university (HBO) in the Netherlands or Belgium.
+
+For student teams, a maximum of one team member may be fourth year or higher. A maximum of two team members may be third years or higher.
+
+Teams consisting exclusively of applied university students are allowed, regardless of the length of study. For mixed applied university/ university teams, students from applied university may deduct one year from their study duration. Teams of different composition can register as “non-competitive team”. These do participate, but cannot win and therefore do not receive an official ranking.
+
+</div>

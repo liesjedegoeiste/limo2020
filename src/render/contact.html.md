@@ -1,5 +1,6 @@
 ---
 title: "Contact/Routebeschrijving"
+title_english: "Contact / Travel description"
 isPage: true
 showLogo: true
 order: 15

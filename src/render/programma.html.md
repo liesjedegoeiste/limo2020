@@ -1,5 +1,6 @@
 ---
 title: "Programma"
+title_english: "Programme"
 isPage: true
 showLogo: true
 order: 6

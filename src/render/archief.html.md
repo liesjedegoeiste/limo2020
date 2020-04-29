@@ -1,5 +1,6 @@
 ---
 title: "Archief"
+title_english: "Archive"
 isPage: true
 showLogo: true
 order: 12

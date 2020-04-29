@@ -1,5 +1,6 @@
 ---
 title: "Home"
+title_english: "Home"
 isPage: true
 showLogo: true
 order: 1
@@ -24,6 +25,15 @@ opgaven.
 
 De zestiende editie van de LIMO zal op 8 mei 2020 online plaatsvinden.
 
+### Comit&eacute; van aanbeveling
+
+De LIMO heeft een comit&eacute; van aanbeveling. Het comit&eacute; van aanbeveling bestaat
+uit vooraanstaande mensen die vertrouwen hebben in een goed verloop van de LIMO
+en hun naam aan deze olympiade willen verbinden. De leden van het comit&eacute; van
+aanbeveling hebben verder geen zeggenschap over de olympiade.
+
+Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
+
 </div>
 <div class="lang lang-en">
 
@@ -37,16 +47,13 @@ The LIMO (National Interuniversity Mathematical Olympiad) is an annually recurri
 
 The sixteenth edition of the LIMO will be held on may 8th 2020.
 
+### Committee of Recommendation
+
+LIMO has a committee of recommendation. The recommendation committee consists of prominent people who have confidence in the LIMO and want to link their name to this Olympiad. Members of the Recommendation Committee have no further control over the Olympiad.
+
+Our recommendation committee consists of the following people:
+
 </div>
-
-### Comit&eacute; van aanbeveling
-
-De LIMO heeft een comit&eacute; van aanbeveling. Het comit&eacute; van aanbeveling bestaat
-uit vooraanstaande mensen die vertrouwen hebben in een goed verloop van de LIMO
-en hun naam aan deze olympiade willen verbinden. De leden van het comit&eacute; van
-aanbeveling hebben verder geen zeggenschap over de olympiade.
-
-Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
 
 <div class="row" align="center">
     <span class="col-sm-4">
@@ -104,7 +111,4 @@ Ons comit&eacute; van aanbeveling bestaat uit de volgende personen:
         </p>
       </p>
     </span>
-</div>    
-    
-
-
+</div>

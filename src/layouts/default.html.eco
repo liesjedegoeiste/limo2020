@@ -55,11 +55,20 @@
 
         <% # The navbar. Grey when on the page, white when not on the page. %>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav">
+          <ul class="nav navbar-nav lang lang-nl">
             <% for page in @getCollection("pages").toJSON(): %>
               <li class="<%= if page.id is @document.id then 'active' else 'inactive' %>">
-                <a href="<%= @getUrl(page) %>">
+                <a class="lang lang-nl" href="<%= @getUrl(page) %>">
                   <%= page.title %>
+                </a>
+              </li>
+            <% end %>
+          </ul>
+          <ul class="nav navbar-nav lang lang-en">
+            <% for page in @getCollection("pages").toJSON(): %>
+              <li class="<%= if page.id is @document.id then 'active' else 'inactive' %>">
+                <a class="lang lang-en" href="<%= @getUrl(page) %>">
+                  <%= page.title_english %>
                 </a>
               </li>
             <% end %>
