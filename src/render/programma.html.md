@@ -8,6 +8,8 @@ order: 6
 
 ### Programma
 
+De opgaven worden op het moment dat de wedstrijd begint aan alle deelnemers gemaild en in onze discord gezet.
+
 <div class="table-responsive">
   <table class="table table-condensed table-striped">
     <tbody>
@@ -18,41 +20,37 @@ order: 6
         <td>Waar</td>
       </tr>
       <tr>
-        <td>09:30</td>
-        <td>10:30</td>
-        <td>Ontvangst</td>
-        <td>Ruppert: zaal Blauw</td>
-      </tr>
-      <tr>
-        <td>10:30</td>
-        <td>11:45</td>
-        <td>Opening en lezing</td>
-        <td>Ruppert: zaal Blauw</td>
-      </tr>
-      <tr>
-        <td>11:45</td>
-        <td>12:45</td>
-        <td>Lunch</td>
-        <td>Nader te bepalen</td>
+        <td>11:00</td>
+        <td>12:00</td>
+        <td>Koekjes inslaan</td>
+        <td>De lokale supermarkt</td>
       </tr>
       <tr>
         <td>13:00</td>
-        <td>16:00</td>
+        <td>13:05</td>
+        <td>Introductiefilmpje</td>
+        <td>Thuis</td>
+      </tr>
+      <tr>
+        <td>13:05</td>
+        <td>16:05</td>
         <td>Wedstrijd</td>
-        <td>Verscheidene locaties op het Utrecht Science Park</td>
+        <td>Thuis</td>
       </tr>
       <tr>
-        <td>16:15</td>
-        <td>19:00</td>
-        <td>Borrel en prijsuitreiking</td>
-        <td>Minnaertgebouw</td>
+        <td>16:05</td>
+        <td>16:30</td>
+        <td>Tijd om antwoorden in te scannen en op te sturen</td>
+        <td>Thuis</td>
       </tr>
       <tr>
+        <td>16:30</td>
         <td>19:00</td>
-        <td>21:00</td>
-        <td>Diner</td>
-        <td>Nader te bepalen locatie in Utrecht</td>
+        <td>Kahootquiz en virtuele borrel</td>
+        <td>De LIMO 2020 discord</td>
       </tr>
     </tbody>
   </table>
+
+  Uitwerkingen zullen direct na afloop in de discord gedeeld worden. De resultaten zullen uiterlijk maandag 11 mei bekendgemaakt worden.
 </div>
